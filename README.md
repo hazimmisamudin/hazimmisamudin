@@ -1,5 +1,4 @@
 # HazMuda
-E-Portfolio TECHNOLOGY AND INFORMATION SYSTEM
 
 ## 👤 About Me
 I am Muhammad Hazim bin Misamudin Muda, a Network Security student at Universiti Teknologi Malaysia (UTM).
