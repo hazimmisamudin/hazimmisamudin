@@ -52,8 +52,11 @@ Description: Developed system logic and database handling for attendance trackin
 - Networking and cybersecurity  
 - Watching tech-related content
 
-- ## 🔗 LinkedIn e-Portfolio
+- ## 🔗 LinkedIn
 This GitHub e-portfolio is the main platform for my academic work and reflections.
 For my professional profile and additional details, please visit my LinkedIn:
 
 👉 https://www.linkedin.com/in/muhammad-hazim-misamudin-muda-b0707327a
+
+- ## 💼 My e-Portfolio
+- https://hazimmisamudin.github.io/E-Portfolio/
