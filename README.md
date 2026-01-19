@@ -4,7 +4,6 @@
 I am Muhammad Hazim bin Misamudin Muda, a Network Security student at Universiti Teknologi Malaysia (UTM).
 I have a background in computer science and hands-on experience in hardware troubleshooting, system maintenance, and basic software development.
 
-This GitHub e-portfolio showcases my assignments, reflections, and learning progress for the Technology and Information System (SECP1513) course.
 
 ## 🎓 Education
 - **Bachelor of Computer Science (Network Security)**  
